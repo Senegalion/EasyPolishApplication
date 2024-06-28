@@ -15,8 +15,6 @@ Welcome to the EasyPolishApplication repository! This application provides an AI
     - [Running the Application](#running-the-application)
     - [Using the Application](#using-the-application)
   - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
 
 ## Overview
 EasyPolishApplication is an AI-powered platform designed to enhance Polish language learning and writing. The platform assists users in various writing tasks such as essays, emails, journals, reports, proposals, reviews, invoices, and resumes, providing corrections and feedback through an AI model.
@@ -76,10 +74,10 @@ The By5-polishCorrector-LLM-Server hosts the AI model for correcting and providi
    python server.py
 
 ## Usage
-**Running the Application**
+## Running the Application
 To run the full application, ensure all three components (Backend, Frontend, and By5-polishCorrector-LLM-Server) are running simultaneously.
 
-**Using the Application**
+## Using the Application
 1. Open your web browser and navigate to http://localhost:3000.
 2. Choose the type of writing you want to work on (e.g., Essay, E-mail, Journal).
 3. Use the editor to write your text. Use the toolbar for text formatting.
